@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7DF88B0B-88E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadBasics", "src\ThreadBasics\ThreadBasics.csproj", "{6B8732AD-B2BA-4F10-83A8-655AB32F74B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceConditions", "src\RaceConditions\RaceConditions.csproj", "{DBD7AE24-2750-4684-BA97-0B024537479D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +22,13 @@ Global
 		{6B8732AD-B2BA-4F10-83A8-655AB32F74B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B8732AD-B2BA-4F10-83A8-655AB32F74B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B8732AD-B2BA-4F10-83A8-655AB32F74B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD7AE24-2750-4684-BA97-0B024537479D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD7AE24-2750-4684-BA97-0B024537479D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD7AE24-2750-4684-BA97-0B024537479D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD7AE24-2750-4684-BA97-0B024537479D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6B8732AD-B2BA-4F10-83A8-655AB32F74B7} = {7DF88B0B-88E7-4552-8749-8E9F367C837C}
+		{DBD7AE24-2750-4684-BA97-0B024537479D} = {7DF88B0B-88E7-4552-8749-8E9F367C837C}
 	EndGlobalSection
 EndGlobal
