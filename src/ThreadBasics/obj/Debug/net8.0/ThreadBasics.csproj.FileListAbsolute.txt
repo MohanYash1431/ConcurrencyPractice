@@ -1,0 +1,15 @@
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\bin\Debug\net8.0\ThreadBasics.exe
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\bin\Debug\net8.0\ThreadBasics.deps.json
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\bin\Debug\net8.0\ThreadBasics.runtimeconfig.json
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\bin\Debug\net8.0\ThreadBasics.dll
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\bin\Debug\net8.0\ThreadBasics.pdb
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\ThreadBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\ThreadBasics.AssemblyInfoInputs.cache
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\ThreadBasics.AssemblyInfo.cs
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\ThreadBasics.csproj.CoreCompileInputs.cache
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\ThreadBasics.sourcelink.json
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\ThreadBasics.dll
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\refint\ThreadBasics.dll
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\ThreadBasics.pdb
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\ThreadBasics.genruntimeconfig.cache
+C:\Users\Mohan\source\ConcurrencyPractice\src\ThreadBasics\obj\Debug\net8.0\ref\ThreadBasics.dll
