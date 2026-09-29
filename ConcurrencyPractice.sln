@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadBasics", "src\ThreadB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceConditions", "src\RaceConditions\RaceConditions.csproj", "{DBD7AE24-2750-4684-BA97-0B024537479D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumer", "src\ProducerConsumer\ProducerConsumer.csproj", "{4AC5C0C6-CEA5-48D0-9E36-0BB433065DDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,9 +28,14 @@ Global
 		{DBD7AE24-2750-4684-BA97-0B024537479D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBD7AE24-2750-4684-BA97-0B024537479D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBD7AE24-2750-4684-BA97-0B024537479D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC5C0C6-CEA5-48D0-9E36-0BB433065DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC5C0C6-CEA5-48D0-9E36-0BB433065DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC5C0C6-CEA5-48D0-9E36-0BB433065DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC5C0C6-CEA5-48D0-9E36-0BB433065DDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6B8732AD-B2BA-4F10-83A8-655AB32F74B7} = {7DF88B0B-88E7-4552-8749-8E9F367C837C}
 		{DBD7AE24-2750-4684-BA97-0B024537479D} = {7DF88B0B-88E7-4552-8749-8E9F367C837C}
+		{4AC5C0C6-CEA5-48D0-9E36-0BB433065DDE} = {7DF88B0B-88E7-4552-8749-8E9F367C837C}
 	EndGlobalSection
 EndGlobal
